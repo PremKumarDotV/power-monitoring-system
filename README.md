@@ -70,7 +70,8 @@ System Block Diagram
 
 The system consists of the following functional blocks:
 
-/home/v25ce5p4/Downloads/Untitled.png
+file:///home/v25ce5p4/Downloads/Untitled.png<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b6deae40-885f-4df1-8b78-fec1cea91fb8" />
+
 
 Software Architecture
 
