@@ -70,7 +70,7 @@ System Block Diagram
 
 The system consists of the following functional blocks:
 
-
+/home/v25ce5p4/Downloads/Untitled.png
 
 Software Architecture
 
